@@ -14,7 +14,6 @@
             {name: 'contact', location: 'app/contact', main: 'main'},
             {name: 'motivation', location: 'app/motivation', main: 'main'},
 
-            { name: 'poly', location: 'lib/poly'},
             { name: 'curl', location: 'lib/curl/src/curl', main: '../curl' },
             { name: 'when', location: 'lib/when', main: 'when' }
         ],
@@ -34,7 +33,7 @@
         },
 
         // Polyfill everything ES5-ish
-        preloads: ['poly/object', 'poly/array', 'poly/function', 'app/scroll']
+        preloads: ['app/scroll']
     };
 
     curl(config, ['app', 'domReady!']).then(function(app){
