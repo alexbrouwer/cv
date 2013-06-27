@@ -1,0 +1,89 @@
+[
+    {
+        "company": "Medicore B.V.",
+        "companyDescription": "Medicore B.V. realiseerd een web based application voor zorginstellingen. Deze applicatie bestaat uit een PHP en MySQL backend plus een JS, HTML en CSS frontend. Qua functionaliteiten bevat deze applicatie een groot aantal verschillende domeinen. Planning, registratie (patienten, behandelingen), facturatie en rapportages. Ook koppelingen met externe systemen zijn aanwezig. Vanaf de start van mijn carriere heb ik mij breed kunnen orienteren op zowel front- als backend. Voor deze applicatie heb ik zorggedragen voor een nieuwe response GUI, implementatie van Doctrine2, Optimalizaties voor PHP 5.3.",
+        "periodStart": "Februari 2008",
+        "periodEnd": "heden",
+        "jobTitle": "Software Engineer",
+        "jobDescription": "Implementatie, onderhoud en innovatie",
+        "jobSkills": [
+            "PHP", "JS", "HTML", "CSS", "SQL"
+        ]
+    },
+    {
+        "company": "Mettler Toledo",
+        "companyDescription": "Mettler Toledo is gespecialiseerd in weeg units verdeelt over 3 verschillende groepen: retail, industrie, lab. Bij dit bedrijf heb ik mij vooral bezig gehouden op onderhoud en reparaties van retail weegschalen. Deze werkzaamheden deed ik zowel intern als bij klanten (supermarkten e.d.)",
+        "periodStart": "Mei 2007",
+        "periodEnd": "November 2007",
+        "jobTitle": "Retail Service Technicus",
+        "jobDescription": "Reparatie en onderhoud, zowel intern als extern",
+        "jobSkills": [
+            "Eigen planning",
+            "Klant communicatie"
+        ]
+    },
+    {
+        "company": "Cerberus-IT",
+        "companyDescription": "Cerberus-IT is een klein full service web bureau. In dit bedrijf realiseerde ik websites van begin tot eind, met nazorg.",
+        "periodStart": "Juli 2006",
+        "periodEnd": "December 2006",
+        "jobTitle": "Allround developer",
+        "jobDescription": "Implementatie en onderhoud van bedrijfswebsites",
+        "jobSkills": [
+            "PHP", "JS", "HTML", "CSS", "SQL"
+        ]
+    },
+    {
+        "company": "Intechno Personeelsvoorziening B.V.",
+        "companyDescription": "Intechno realiseerd personeelsvoorziening specifiek voor techniek en groen. Binnen dit bedrijf hield ik mij bezig met de selectie en werving van personeel voor een grote variatie aan bedrijven.",
+        "periodStart": "Juni 2005",
+        "periodEnd": "December 2005",
+        "jobTitle": "Intercedent",
+        "jobDescription": "Uitzending & selectie, detachering & payroll",
+        "jobSkills": [
+            "Klant communicatie"
+        ]
+    },
+    {
+        "company": "Web developer",
+        "companyDescription": "Af en toe realiseerde ik ook kleine websites voor mensen uit mijn omgeving. O.a. ",
+        "periodStart": "2003",
+        "periodEnd": "2008",
+        "jobTitle": "Allround developer",
+        "jobDescription": "Implementatie en onderhoud van kleine websites",
+        "jobSkills": [
+            "Klant communicatie",
+            "Eigen planning"
+        ]
+    },
+    {
+        "company": "Danscentrum Wildschut Geldermalsen",
+        "companyDescription": "Dansschool voor een gevarieerd aantal dans stijlen. In pauzes en bij (prive) gelegenheden bemande ik de bar.",
+        "periodStart": "September 2004",
+        "periodEnd": "Juli 2006",
+        "jobTitle": "Barman",
+        "jobDescription": "Bediening en schoonmaken",
+        "jobSkills": [
+            "Klant communicatie"
+        ]
+    },
+    {
+        "company": "Restaurant 'Rust Wat'",
+        "companyDescription": "Restaurant in het kleine Rhenoy gelegen langs een fietsroute aan de Linge. Hier hielp ik in de bediening.",
+        "periodStart": "September 2004",
+        "periodEnd": "Juli 2006",
+        "jobTitle": "Bediening",
+        "jobDescription": "Bediening en schoonmaken",
+        "jobSkills": [
+            "Klant communicatie"
+        ]
+    },
+    {
+        "company": "C1000 Essing",
+        "companyDescription": "Supermarkt in Tiel",
+        "periodStart": "Februari 2001",
+        "periodEnd": "Februari 2003",
+        "jobTitle": "Vakkenvuller",
+        "jobSkills": []
+    }
+]

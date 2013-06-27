@@ -1,0 +1,27 @@
+<div class="span12">
+    <h2>{{company}}</h2>
+    <blockquote>{{period}}</blockquote>
+</div>
+<div class="span8">
+    {{companyDescription}}
+</div>
+<div class="span4">
+    <dl>
+        <dt>Functie</dt>
+        <dd>{{jobTitle}}</dd>
+        {{#if jobDescription}}
+        <dt>Taken</dt>
+        <dd>{{jobDescription}}</dd>
+        {{/if}}
+        {{#if jobSkills}}
+        <dt>Vaardigheden</dt>
+        <dd>
+            <ul class="inline">
+                {{#each jobSkills}}
+                <li>{{.}}</li>
+                {{/each}}
+            </ul>
+        </dd>
+        {{/if}}
+    </dl>
+</div>
