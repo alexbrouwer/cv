@@ -1,8 +1,6 @@
 define([
-    'jquery',
-    'curl/domReady',
-    'js!lib/bootstrap.min.js!exports=$.fn.tooltip',
-    'js!lib/jquery.smooth.scroll.min.js!exports=$.fn.smoothScroll'
+    'lib/jquery.libs',
+    'curl/domReady'
 ], function($, domReady) {
     domReady(function() {
         $('.navbar a, .subnav a').smoothScroll();

@@ -32,8 +32,9 @@
             'hbs': 'lib/hbs-plugin'
         },
 
-        // Polyfill everything ES5-ish
-        preloads: ['app/scroll']
+        preloads: [
+            'app/scroll'
+        ]
     };
 
     curl(config, ['app', 'domReady!']).then(function(app){
