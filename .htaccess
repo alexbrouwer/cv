@@ -7,16 +7,16 @@ AddDefaultCharset UTF-8
 
 <filesMatch "\.(htm|html)$">
 	ForceType 'text/html; charset=UTF-8'
-	
+
 	<ifModule mod_headers.c>
 		Header set imagetoolbar "no"
 	</ifModule>
 </filesMatch>
 
-<filesMatch "\.(html|htm|js|css|less|json)$">
+<filesMatch "\.(less|json)$">
 	DefaultLanguage en-US
 	FileETag None
-	
+
 	<ifModule mod_headers.c>
 		Header unset ETag
 		Header set Cache-Control "max-age=0, no-cache, no-store, must-revalidate"

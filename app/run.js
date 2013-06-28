@@ -22,7 +22,7 @@ define(['curl'], function(curl) {
         },
 
         paths: {
-            'lodash': 'lib/lodash',
+            'lodash': 'lib/lodash.underscore.min',
             'marionette': 'lib/marionette',
             'backbone': 'lib/backbone',
             'hbs': 'lib/hbs-plugin'
