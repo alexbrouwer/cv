@@ -1,9 +1,6 @@
-/**
- *
- */
-(function(curl) {
-
+define(['curl'], function(curl) {
     var config = {
+        baseUrl: '.',
         packages: [
             {name: 'app', location: 'app', main: 'main'},
             {name: 'work', location: 'app/work', main: 'main'},
@@ -25,8 +22,7 @@
         },
 
         paths: {
-            'jquery': 'lib/jquery-1.9.1.min',
-            'lodash': 'lib/lodash.min',
+            'lodash': 'lib/lodash',
             'marionette': 'lib/marionette',
             'backbone': 'lib/backbone',
             'hbs': 'lib/hbs-plugin'
@@ -37,10 +33,13 @@
         ]
     };
 
-    curl(config, ['app', 'domReady!']).then(function(app){
-        app.start();
-    }, function(err){
-        console.log(err.stack || err);
-    });
+    curl(config, ['app', 'domReady!']).then(load, error);
 
-}(curl));
+    function load(app) {
+        app.start();
+    }
+
+    function error(err) {
+        console.log(err.stack || err);
+    }
+});

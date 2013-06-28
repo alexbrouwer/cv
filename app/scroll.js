@@ -1,7 +1,6 @@
 define([
-    'lib/jquery.libs',
     'curl/domReady'
-], function($, domReady) {
+], function(domReady) {
     domReady(function() {
         $('.navbar a, .subnav a').smoothScroll();
 
