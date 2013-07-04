@@ -177,3 +177,30 @@ section {
         width: 1168px; /* 2px less to account for left/right borders being removed when in fixed mode */
     }
 }
+
+.logo {
+    display:           block;
+    width:             100px;
+    height:            100px;
+
+    background-size:   100px;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.logo.logo-php {
+    background-image:  url('../img/php-logo.png');
+}
+
+.logo.logo-js {
+    background-image:  url('../img/js-logo.png');
+}
+
+.logo.logo-css3 {
+    background-image:  url('../img/css3-logo.png');
+}
+
+.logo.logo-html5 {
+    background-size:   60px;
+    background-image:  url('../img/html5-logo.png');
+}
