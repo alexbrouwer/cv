@@ -4,16 +4,6 @@
         "title": "Methodieken",
         "skillSet": [
             {
-                "title": "Rational Unified Process",
-                "subTitle": "RUP",
-                "level": 1
-            },
-            {
-                "title": "Agile Unified Process",
-                "subTitle": "AUP",
-                "level": 1
-            },
-            {
                 "title": "SCRUM",
                 "level": 3
             }
@@ -76,6 +66,18 @@
             {
                 "title": "Zend Studio",
                 "level": 3
+            },
+            {
+                "title": "JIRA",
+                "level": 3
+            },
+            {
+                "title": "Bamboo",
+                "level": 2
+            },
+            {
+                "title": "Stash",
+                "level": 2
             }
         ]
     },
@@ -99,7 +101,7 @@
         "skillSet": [
             {
                 "title": "Zend Framework 2",
-                "level": 2
+                "level": 3
             },
             {
                 "title": "Symfony 2",
@@ -120,6 +122,34 @@
             {
                 "title": "BackBone",
                 "level": 4
+            },
+            {
+                "title": "RequireJS",
+                "level": 4
+            },
+            {
+                "title": "Curl",
+                "level": 4
+            },
+            {
+                "title": "When",
+                "level": 4
+            },
+            {
+                "title": "ExtJS",
+                "level": 2
+            },
+            {
+                "title": "Moment",
+                "level": 3
+            },
+            {
+                "title": "Less",
+                "level": 2
+            },
+            {
+                "title": "SASS",
+                "level": 2
             }
         ]
     },
@@ -157,6 +187,10 @@
             },
             {
                 "title": "XML",
+                "level": 3
+            },
+            {
+                "title": "UML",
                 "level": 3
             }
         ]

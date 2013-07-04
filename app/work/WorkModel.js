@@ -7,12 +7,14 @@ define([
     return Backbone.Model.extend({
         defaults: {
             "company": "",
+            "city": "",
             "companyDescription": "",
             "periodStart": "",
             "periodEnd": "",
             "jobTitle": "",
             "jobDescription": "",
-            jobSkills: []
+            "jobSkills": [],
+            "jobTools": []
         },
 
         initialize: function(){
