@@ -13,7 +13,7 @@ AddDefaultCharset UTF-8
 	</ifModule>
 </filesMatch>
 
-<filesMatch "\.(js|htmlless|json)$">
+<filesMatch "\.(js|html|less|json)$">
 	DefaultLanguage en-US
 	FileETag None
 
