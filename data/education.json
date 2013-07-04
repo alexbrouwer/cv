@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Cursus PHP Masterclass",
+        "periodStart": "Oktober 2007",
+        "periodEnd": "Maart 2008",
+        "location": "Eduvision opleidingen"
+    },
+    {
+        "title": "HBO Digitale Communicatie",
+        "periodStart": "September 2006",
+        "periodEnd": "Juni 2007",
+        "location": "Hogeschool van Utrecht te Utrecht"
+    },
+    {
+        "title": "HBO Industriële Automatisering",
+        "periodStart": "September 2004",
+        "periodEnd": "Februari 2006",
+        "location": "Hogeschool van Utrecht te Utrecht"
+    },
+    {
+        "title": "MBO BOL 4 Werktuigbouwkunde",
+        "periodStart": "September 2000",
+        "periodEnd": "Juli 2004",
+        "location": "ROC River te Tiel"
+    },
+    {
+        "title": "HAVO",
+        "periodStart": "September 1996",
+        "periodEnd": "Juni 2000",
+        "location": "Lingecollege te Tiel"
+    }
+]

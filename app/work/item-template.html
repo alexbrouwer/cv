@@ -1,0 +1,36 @@
+<div class="span12">
+    <h2>{{company}}</h2>
+    <blockquote>{{period}} | {{city}}</blockquote>
+</div>
+<div class="span8">
+    {{companyDescription}}
+
+    {{#if jobTools}}
+    <h4>Gebruikte tools, frameworks en talen</h4>
+    <ul class="inline">
+        {{#each jobTools}}
+        <li>{{.}}</li>
+        {{/each}}
+    </ul>
+    {{/if}}
+</div>
+<div class="span4">
+    <ul class="unstyled">
+        <li><strong>Functie</strong></li>
+        <li>{{jobTitle}}</li>
+        {{#if jobDescription}}
+        <li><strong>Taken</strong></li>
+        <li>{{jobDescription}}</li>
+        {{/if}}
+        {{#if jobSkills}}
+        <li><strong>Vaardigheden</strong></li>
+        <li>
+            <ul class="inline">
+                {{#each jobSkills}}
+                <li>{{.}}</li>
+                {{/each}}
+            </ul>
+        </li>
+        {{/if}}
+    </ul>
+</div>

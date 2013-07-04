@@ -1,0 +1,198 @@
+[
+    {
+        "id": "methodieken",
+        "title": "Methodieken",
+        "skillSet": [
+            {
+                "title": "SCRUM",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "id": "os",
+        "title": "Operating Systems",
+        "skillSet": [
+            {
+                "title": "Linux",
+                "level": 2
+            },
+            {
+                "title": "Windows",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": "database",
+        "title": "Database",
+        "skillSet": [
+            {
+                "title": "MySQL",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "id": "software",
+        "title": "Software",
+        "skillSet": [
+            {
+                "title": "MS Office",
+                "subTitle": "Word, Excel, PowerPoint, Outlook",
+                "level": 4
+            },
+            {
+                "title": "NotePad++",
+                "level": 3
+            },
+            {
+                "title": "Putty",
+                "subTitle": "shell",
+                "level": 3
+            },
+            {
+                "title": "PHPStorm",
+                "level": 4
+            },
+            {
+                "title": "Eclipse",
+                "level": 3
+            },
+            {
+                "title": "NetBeans",
+                "level": 4
+            },
+            {
+                "title": "Zend Studio",
+                "level": 3
+            },
+            {
+                "title": "JIRA",
+                "level": 3
+            },
+            {
+                "title": "Bamboo",
+                "level": 2
+            },
+            {
+                "title": "Stash",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": "vsc",
+        "title": "VCS",
+        "skillSet": [
+            {
+                "title": "SVN",
+                "level": 3
+            },
+            {
+                "title": "Git",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "id": "frameworks",
+        "title": "Frameworks",
+        "skillSet": [
+            {
+                "title": "Zend Framework 2",
+                "level": 3
+            },
+            {
+                "title": "Symfony 2",
+                "level": 1
+            },
+            {
+                "title": "jQuery",
+                "level": 3
+            },
+            {
+                "title": "Zepto",
+                "level": 2
+            },
+            {
+                "title": "Dojo",
+                "level": 3
+            },
+            {
+                "title": "BackBone",
+                "level": 4
+            },
+            {
+                "title": "RequireJS",
+                "level": 4
+            },
+            {
+                "title": "Curl",
+                "level": 4
+            },
+            {
+                "title": "When",
+                "level": 4
+            },
+            {
+                "title": "ExtJS",
+                "level": 2
+            },
+            {
+                "title": "Moment",
+                "level": 3
+            },
+            {
+                "title": "Less",
+                "level": 2
+            },
+            {
+                "title": "SASS",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": "talen",
+        "title": "Talen",
+        "skillSet": [
+            {
+                "title": "PHP 5",
+                "level": 5
+            },
+            {
+                "title": "HTML",
+                "level": 5
+            },
+            {
+                "title": "HTML 5",
+                "level": 3
+            },
+            {
+                "title": "CSS 1 & 2",
+                "level": 4
+            },
+            {
+                "title": "CSS 3",
+                "level": 3
+            },
+            {
+                "title": "JavaScript",
+                "level": 5
+            },
+            {
+                "title": "SQL",
+                "level": 4
+            },
+            {
+                "title": "XML",
+                "level": 3
+            },
+            {
+                "title": "UML",
+                "level": 3
+            }
+        ]
+    }
+]
